@@ -1,9 +1,11 @@
 # Student Course Management System
-Name Binay Kumar Chand
-Roll Number L.E.082BCT02
-THAPATHALI CAMPUS
-2082
 
+**Name:** Binay Kumar Chand  
+**Roll Number:** L.E.082BCT02  
+**Campus:** Thapathali Campus  
+**Year:** 2082  
+
+---
 A full-stack web application built with React, Node.js, Express, and MySQL. This project demonstrates authentication, CRUD operations, relational database design, and deployment readiness.
 
 ## Features
